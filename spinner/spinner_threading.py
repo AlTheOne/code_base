@@ -1,3 +1,12 @@
+"""
+Запуск спящего потока и спиннера загрузки.
+
+AlTheOne [https://AlTheOne.pro/]
+AlTheOne.official@gmail.com
+"""
+__author__ = 'AlTheOne'
+
+
 import threading
 import itertools
 import time
