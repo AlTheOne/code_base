@@ -1,2 +1,2 @@
 # Progress
-Learning, practice, experimenting, testing...
+*Learning, practice, experimenting, testing...*
