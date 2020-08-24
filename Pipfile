@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 requests = "*"
 tqdm = "*"
+aiohttp = "*"
+aiofiles = "*"
 
 [requires]
 python_version = "3.8"
